@@ -1,7 +1,10 @@
 <template>
     <div>
-        <UButton color="waikawa-gray"  label="test button"/>
-        <UIcon name="i-heroicons-folder-20-solid"></UIcon>
+        <NavBar/>
+        <div>
+            <UButton color="waikawa-gray"  label="test button"/>
+            <UIcon name="i-heroicons-folder-20-solid"></UIcon>
+        </div>
     </div>
 </template>
 
