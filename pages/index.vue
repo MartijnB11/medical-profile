@@ -1,20 +1,10 @@
 <template>
-    <div class="grid place-content-center h-screen">
-        <h1>Hello World</h1>
-        <UButton>Submit</UButton>
+    <div>
+        <UButton color="waikawa-gray"  label="test button"/>
+        <UIcon name="i-heroicons-folder-20-solid"></UIcon>
     </div>
 </template>
 
-<script>
-export default {
-    setup () {
-        
+<script setup></script>
 
-        return {}
-    }
-}
-</script>
-
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>
